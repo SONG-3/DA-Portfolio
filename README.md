@@ -1,4 +1,4 @@
-# DA-Project
+# Data-Analysis Portfolio
 ## Project1
 
 ## Project2 
