@@ -6,9 +6,9 @@
 
 - **데이터**: 유저 행동 로그 데이터, 지원서(Application) 데이터, 북마크(Bookmark) 트랜잭션 데이터
 
-- **키워드**: `#AARRR`, `#Segment Analysis`, `Cohort Retention` 
+- **분석 방법론**: `#AARRR`, `#Segment Analysis`, `#Cohort Retention` 
 
-- **분석 목표**:
+- **프로젝트 개요**:
 
   - 지원 완료 유저의 리텐션을 증가시키기 위해 개선이 필요한 지원 단계 주요 페이지를 도출한다.
 
