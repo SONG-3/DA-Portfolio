@@ -1,4 +1,4 @@
-# Project Summary 
+## Project Summary 
 ### # 1.Project - **채용 플랫폼 유저 행동 패턴 분석 프로젝트** 
 - **프로젝트 기간** : 2025년 4월 7일 ~ 2025년 4월 29일
 
