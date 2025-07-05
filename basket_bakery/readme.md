@@ -10,7 +10,7 @@
   - 재고 배치 및 상품 구성 전략 수립
   - 조합 추천을 통한 세트 상품 제안 및 매출 상승 유도
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/924f0620-b81c-4106-a041-ea11828569a5"  width="70%" ></img><br/>
+<img src="https://github.com/user-attachments/assets/924f0620-b81c-4106-a041-ea11828569a5"  width=400 height=600" ></img><br/>
 </p>
 
 <p align='center'>
