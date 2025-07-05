@@ -9,6 +9,15 @@
   - 판매 트렌드 기반 프로모션 시기 및 품목 선정
   - 재고 배치 및 상품 구성 전략 수립
   - 조합 추천을 통한 세트 상품 제안 및 매출 상승 유도
+- **KPT 회고**
+  - Keep
+    - UX향상을 위해 날짜별 필터링 기능은 슬라이더 기능으로 한 점
+    - 팀에서 데이터 활용할 수 있도록 csv다운로드 버튼 추가한 점 
+  - Problem
+    - 증감률은 일별 기준으로만 동작(주/월 기준 비교 미반영)
+  - Try
+    - Page나 Session State같은 동적 기능의 활용 방안을 좀 더 연구해야겠다.
+    - UI를 더 대시보드답게 구성해야겠다.
 <p align='center'>
 <img src="https://github.com/user-attachments/assets/924f0620-b81c-4106-a041-ea11828569a5"  width=600 height=800 ></img><br/>
 </p>
