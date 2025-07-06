@@ -9,6 +9,15 @@
   - 판매 트렌드 기반 프로모션 시기 및 품목 선정
   - 재고 배치 및 상품 구성 전략 수립
   - 조합 추천을 통한 세트 상품 제안 및 매출 상승 유도
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/924f0620-b81c-4106-a041-ea11828569a5"  width=600 height=800 ></img><br/>
+</p>
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/15d7f54c-8e8f-4cc0-9b18-e9de8434e8e9"  width=600 height=800 ></img><br/>
+</p>
+
 - **KPT 회고**
   - Keep
     - UX향상을 위해 날짜별 필터링 기능은 슬라이더 기능으로 한 점
@@ -18,10 +27,3 @@
   - Try
     - Page나 Session State같은 동적 기능의 활용 방안을 좀 더 연구해야겠다.
     - UI를 더 대시보드답게 구성해야겠다.
-<p align='center'>
-<img src="https://github.com/user-attachments/assets/924f0620-b81c-4106-a041-ea11828569a5"  width=600 height=800 ></img><br/>
-</p>
-
-<p align='center'>
-<img src="https://github.com/user-attachments/assets/15d7f54c-8e8f-4cc0-9b18-e9de8434e8e9"  width=600 height=800 ></img><br/>
-</p>
