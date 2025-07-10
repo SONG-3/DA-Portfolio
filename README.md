@@ -52,5 +52,7 @@
 
 - **프로젝트 개요**: 베이커리 구매 데이터를 기반으로 장바구니 분석을 활용하여 고객의 구매 패턴 및 상품 간 상호작용을 파악하고 베이커리 가게의 세트 상품 및 재고 배치 전략을 수립한다.
 
+<img src="https://github.com/user-attachments/assets/15d7f54c-8e8f-4cc0-9b18-e9de8434e8e9"  width=600 height=800 ></img><br/>
+
 - [Streamlit 베이커리 운영 대시보드 보기](https://github.com/SONG-3/DA-Portfolio/blob/main/basket_bakery/readme.md)
   
