@@ -10,7 +10,7 @@
 
 - **프로젝트 개요**: 채용 플랫폼 로그 데이터를 기반으로 AARRR 프레임워크를 활용해 유저 행동 여정을 정의하여 분석하고 UI/UX 개선 및 **활성 유저(지원 후 재방문 유저)의 리텐션 향상을 위한 전략**을 수립한다.
 
-<img width="1834" height="634" alt="image" src="https://github.com/user-attachments/assets/5c320912-3d3b-4ff1-8a00-0545bfe77fbb" />
+<img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5c320912-3d3b-4ff1-8a00-0545bfe77fbb" />
 
   
 - [분석 과정 및 결론 요약 바로보기](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
@@ -24,7 +24,7 @@
 - **분석 방법**: `#EDA`, `#ML`, `#Clustering`, `#Segment Analysis`
 
 - **프로젝트 개요**: 공유오피스 3일 무로 체험 데이터를 활용하여 출입 및 방문 패턴을 분석하여 결제 전환 여부를 예측하는 모델을 구축하고 모델을 기반으로 유저 행동 특성별 타겟 마케팅 전략을 수립한다.
-<img width="1614" height="710" alt="image" src="https://github.com/user-attachments/assets/160a8b40-fb0a-41dd-bae0-d6a1a0e822fe" />
+<img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/160a8b40-fb0a-41dd-bae0-d6a1a0e822fe" />
 
   
 - [분석 과정 및 결론 요약 바로보기](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/ML_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
