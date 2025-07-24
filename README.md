@@ -13,7 +13,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5c320912-3d3b-4ff1-8a00-0545bfe77fbb" />
 
   
-- [분석 과정 및 결론 요약 바로보기](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
 
 ## # 2.Project - 공유오피스 결제 유저 예측 분석 
 - **프로젝트 기간**: 2025년 6월 9일 ~ 2025년 6월 19일
@@ -27,7 +27,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/160a8b40-fb0a-41dd-bae0-d6a1a0e822fe" />
 
   
-- [분석 과정 및 결론 요약 바로보기](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/ML_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/ML_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
 
 ## # 3.Project - **노년층 공공자전거 이용률 EDA 분석** 
 - **프로젝트 기간** : 2025년 2월 13일 ~ 2025년 2월 27일
@@ -41,7 +41,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5e6225a6-3639-4aa9-b3e5-f05e656f206e" />
 
 
-- [분석 과정 및 결론 요약 바로보기](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%E1%84%82%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A5%20EDA_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%E1%84%82%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A5%20EDA_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
 
 - ## # 4.Project - **베이커리 구매 장바구니 분석**
 - **프로젝트 기간** : 2025년 6월 30일 ~ 2025년 7월 4일
