@@ -14,7 +14,7 @@
 
   
 - [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
--(<img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/75a9e6de-8340-445c-b683-92cf392a2815" />)
+(<img alt="image" src="https://github.com/user-attachments/assets/75a9e6de-8340-445c-b683-92cf392a2815" />)
 
 
 ## # 2.Project - 공유오피스 결제 유저 예측 분석 
