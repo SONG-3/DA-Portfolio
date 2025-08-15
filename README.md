@@ -16,7 +16,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5c320912-3d3b-4ff1-8a00-0545bfe77fbb" />
 
   
-- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)/ [상세 내용](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%EC%B1%84%EC%9A%A9%ED%94%8C%EB%9E%AB%ED%8F%BC_%EC%9C%A0%EC%A0%80%20%ED%96%89%EB%8F%99%20%ED%8C%A8%ED%84%B4%20%EB%B6%84%EC%84%9D.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)/ [프로젝트 상세](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%EC%B1%84%EC%9A%A9%ED%94%8C%EB%9E%AB%ED%8F%BC_%EC%9C%A0%EC%A0%80%20%ED%96%89%EB%8F%99%20%ED%8C%A8%ED%84%B4%20%EB%B6%84%EC%84%9D.pdf)
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/75a9e6de-8340-445c-b683-92cf392a2815" />
 
 ## # 2.Project - 10대 SNS 익명 투표 앱 초기 온보딩 실패 원인 분석
@@ -31,7 +31,6 @@
 
 <img width="2874" height="1616" alt="image" src="https://github.com/user-attachments/assets/27ca2550-0d97-4cad-a010-92908d8b4ff0" />
 
-
 ## # 3.Project - 공유오피스 결제 유저 예측 분석 
 - **프로젝트 기간**: 2025.06 ~ 2025.06 (2주)
 
@@ -45,7 +44,7 @@
 
   
 - [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/ML_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
-/ 
+
 ## # 4.Project - **노년층 공공자전거 이용률 EDA 분석** 
 - **프로젝트 기간** : 2025.02 ~ 2025.02 (2주)
 
@@ -58,7 +57,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5e6225a6-3639-4aa9-b3e5-f05e656f206e" />
 
 
-- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%E1%84%82%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A5%20EDA_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)/ [상세 내용](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%EB%85%B8%EB%85%84%EC%B8%B5%20%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0%20%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EC%A0%80%EC%A1%B0%EC%9D%98%20%EC%9B%90%EC%9D%B8%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EC%A0%95%EC%B1%85%EC%A0%81%20%EC%A0%9C%EC%96%B8.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%E1%84%82%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A5%20EDA_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)/ [프로젝트 상세](https://github.com/SONG-3/DA-Portfolio/blob/main/EDA_public_bike/%EB%85%B8%EB%85%84%EC%B8%B5%20%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0%20%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EC%A0%80%EC%A1%B0%EC%9D%98%20%EC%9B%90%EC%9D%B8%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EC%A0%95%EC%B1%85%EC%A0%81%20%EC%A0%9C%EC%96%B8.pdf)
 
 - ## # 5.Project - **Streamlit 활용 베이커리 구매 장바구니 분석**
 - **프로젝트 기간** : 2025년 6월 30일 ~ 2025년 7월 4일
