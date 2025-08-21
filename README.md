@@ -29,9 +29,9 @@
 
 - **프로젝트 개요**: 5월 한 달간 60만 명이 신규 유입되는 폭발적 성장을 기록했으나, 신규 고객의 97%가 친구 요청 외 활동 없이 이탈하며 대부분 장기 이용으로 이어지지 않았다. 이에 따라 초기 온보딩 개선과 핵심 네트워크 편입을 통한 장기 활동 유도 전략 수립을 목표로 한다
 
-<img width="2874" height="1616" alt="image" src="https://github.com/user-attachments/assets/27ca2550-0d97-4cad-a010-92908d8b4ff0" />
+<img width="2322" height="1304" alt="image" src="https://github.com/user-attachments/assets/0f3d5cf7-f721-4199-9408-052a90d288ce" />
 
-- [분석 과정 및 결론 원페이퍼]<img width="2322" height="1304" alt="image" src="https://github.com/user-attachments/assets/0f3d5cf7-f721-4199-9408-052a90d288ce" />
+- [분석 과정 및 결론 원페이퍼]()
 
   
 ## # 3.Project - 공유오피스 결제 유저 예측 분석 
