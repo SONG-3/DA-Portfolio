@@ -31,7 +31,7 @@
 
 <img width="2874" height="1616" alt="image" src="https://github.com/user-attachments/assets/27ca2550-0d97-4cad-a010-92908d8b4ff0" />
 
-- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/NETWORK_sns_vote/10%EB%8C%80%20SNS%EC%9D%B5%EB%AA%85%20%ED%88%AC%ED%91%9C%EC%95%B1%20%EC%B4%88%EA%B8%B0%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EC%8B%A4%ED%8C%A8%20%EC%9B%90%EC%9D%B8%20%EB%B6%84%EC%84%9D_%EC%9B%90%ED%8E%98%EC%9D%B4%ED%8D%BC.pdf)/ [프로젝트 상세](https://github.com/SONG-3/DA-Portfolio/blob/main/NETWORK_sns_vote/10%EB%8C%80%20SNS%EC%9D%B5%EB%AA%85%20%ED%88%AC%ED%91%9C%EC%95%B1%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EB%B6%84%EC%84%9D%20%EC%83%81%EC%84%B8.pdf)
+- [분석 과정 및 결론 원페이퍼](<img width="2874" height="1614" alt="image" src="https://github.com/user-attachments/assets/2d66875f-bf53-4601-9eab-bb99f2b6bce2" />)
   
 ## # 3.Project - 공유오피스 결제 유저 예측 분석 
 - **프로젝트 기간**: 2025.06 ~ 2025.06 (2주)
