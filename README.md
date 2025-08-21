@@ -31,7 +31,8 @@
 
 <img width="2874" height="1616" alt="image" src="https://github.com/user-attachments/assets/27ca2550-0d97-4cad-a010-92908d8b4ff0" />
 
-- [분석 과정 및 결론 원페이퍼](<img width="2874" height="1614" alt="image" src="https://github.com/user-attachments/assets/2d66875f-bf53-4601-9eab-bb99f2b6bce2" />)
+- [분석 과정 및 결론 원페이퍼](<img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/d8ffc6fb-1521-41d7-b073-f9951b54f49b" />
+)
   
 ## # 3.Project - 공유오피스 결제 유저 예측 분석 
 - **프로젝트 기간**: 2025.06 ~ 2025.06 (2주)
