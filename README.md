@@ -46,7 +46,7 @@
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/160a8b40-fb0a-41dd-bae0-d6a1a0e822fe" />
 
   
-- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/ML_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/ML_shared_office/%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf)
 
 ## # 4.Project - **노년층 공공자전거 이용률 EDA 분석** 
 - **프로젝트 기간** : 2025.02 ~ 2025.02 (2주)
