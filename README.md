@@ -1,7 +1,5 @@
 # 송경근 포트폴리오
 
-
-
 ## # 1.Project - **채용 플랫폼 유저 행동 패턴 분석** 
 - **프로젝트 기간** : 2025.04 ~ 2025.04(4주)
 
@@ -15,10 +13,10 @@
 
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/5c320912-3d3b-4ff1-8a00-0545bfe77fbb" />
 
-  
-- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf) / [프로젝트 상세](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.pdf)
 <img width="1800" height="630" alt="image" src="https://github.com/user-attachments/assets/75a9e6de-8340-445c-b683-92cf392a2815" />
 
+  
+- [분석 과정 및 결론 원페이퍼](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A5.pdf) / [프로젝트 상세](https://github.com/SONG-3/DA-Portfolio/blob/main/AARRR_recruitment/%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.pdf)
 ## # 2.Project - 10대 SNS 익명 투표 앱 초기 온보딩 실패 원인 분석
 - **프로젝트 기간**: 2025.07 ~ 2025.08 (4주)
 
